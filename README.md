@@ -1,3 +1,4 @@
-# Respect Silex Provider
+Respect Silex Provider [![Build Status](https://secure.travis-ci.org/fabiorphp/RespectSilexProvider.png?branch=master)](http://travis-ci.org/fabiorphp/RespectSilexProvider)
+======================
 
-Simple service provider for the Respect
+Silex service provider for the Respect
