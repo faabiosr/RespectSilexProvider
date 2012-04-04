@@ -7,3 +7,4 @@ before_script:
   - "mkdir vendor"
   - "cd vendor"
   -  wget http://silex.sensiolabs.org/get/silex.phar
+  - "cd .."
